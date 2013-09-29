@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/GianArb/GaDisqus.png)](https://travis-ci.org/GianArb/GaDisqus)[![Dependency Status](https://www.versioneye.com/user/projects/5248383b632bac7b8f0052e5/badge.png)] - (https://www.versioneye.com/user/projects/5248383b632bac7b8f0052e5)
+[![Build Status](https://travis-ci.org/GianArb/GaDisqus.png)](https://travis-ci.org/GianArb/GaDisqus) - [![Dependency Status](https://www.versioneye.com/user/projects/5248383b632bac7b8f0052e5/badge.png)](https://www.versioneye.com/user/projects/5248383b632bac7b8f0052e5)
 
 ## Install
 ```
