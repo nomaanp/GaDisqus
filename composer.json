@@ -1,6 +1,6 @@
 {
-    "name": "gianarb/ga-z-service-disqus",
-    "description": "Implement Disqus service in your zf2 application",
+    "name": "gianarb/ga-disqus",
+    "description": "Implement Disqus in your zf2 application",
     "type": "zf-service",
     "version":"0.4.0",
     "keywords": [
@@ -9,7 +9,7 @@
         "disqus",
         "comment"
     ],
-    "homepage": "https://github.com/GianArb/GaZServiceDisqus",
+    "homepage": "https://github.com/GianArb/GaDisqus",
     "author":
         {
             "name": "Gianluca Arbezzano",
