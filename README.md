@@ -15,11 +15,11 @@ You can use it how viewHelper, in your view.phtml
 <?=$this->disqus('shortName')?>
 ```
 How params you can set in this order
-    * shortName
-    * identifier
-    * title
-    * url
-    * categoryId
+* shortName
+* identifier
+* title
+* url
+* categoryId
 
 ### Service factory view helper
 Or you can set a parameters into an array and you can use disqusFactory view helpers
