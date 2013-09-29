@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/GianArb/GaDisqus.png)](https://travis-ci.org/GianArb/GaDisqus)
+
 ## Install
 ```
 curl -s http://getcomposer.org/installer | php
