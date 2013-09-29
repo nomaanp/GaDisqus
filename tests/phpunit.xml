@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="Bootstrap.php"
+         backupGlobals="false"
+         colors="true"
+         mapTestClassNameToCoveredClassName="true"
+        >
+    <filter>
+        <whitelist>
+            <directory suffix=".php">../library/GaDisqus/</directory>
+        </whitelist>
+    </filter>
+    <testsuite name="Sandbox Test Suite">
+       <directory>./</directory>
+   </testsuite>
+</phpunit>

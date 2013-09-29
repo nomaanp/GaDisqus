@@ -1,0 +1,31 @@
+{
+    "name": "gianarb/ga-z-service-disqus",
+    "description": "Implement Disqus service in your zf2 application",
+    "type": "zf-service",
+    "version":"0.4.0",
+    "keywords": [
+        "zf2",
+        "service",
+        "disqus",
+        "comment"
+    ],
+    "homepage": "https://github.com/GianArb/GaZServiceDisqus",
+    "author":
+        {
+            "name": "Gianluca Arbezzano",
+            "email": "gianarb92@gmail.com",
+            "homepage": "http://gianarb.github.io/"
+        },
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    },
+    "require-dev": {
+    	"phpunit/phpunit" : "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "GaDisqus": "src/"
+        }
+    }
+}

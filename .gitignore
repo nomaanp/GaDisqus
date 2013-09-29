@@ -1,0 +1,5 @@
+.settings
+.project
+composer.phar
+*.lock
+vendor
