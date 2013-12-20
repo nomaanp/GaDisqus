@@ -71,7 +71,7 @@ class Disqus
 	public function setOptions(array $conf)
 	{
 		foreach($conf as $property => $val){
-			//FIXME: is a good practice? You can ovverride inheritance properties
+			//FIXME: is a good practice? You can override inheritance properties
 			$this->$property = $val;
 		}
 		return $this;

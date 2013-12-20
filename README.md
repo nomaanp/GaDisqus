@@ -9,7 +9,7 @@ Add into ``` config/application.config.php ``` GaDisqus modules.
 Now you are ready!
 
 ## Configuration
-There are two type of use for this module
+There are two types of use for this module
 
 ### Simple view helper
 You can use it how viewHelper, in your view.phtml

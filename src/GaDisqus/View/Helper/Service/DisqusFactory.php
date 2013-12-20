@@ -18,7 +18,7 @@ class DisqusFactory implements FactoryInterface
     /**
      * {@inheritDoc}
      *
-     * @return \Zend\View\Helper\Identity
+     * @return Disqus
      */
     public function createService(ServiceLocatorInterface $serviceLocator)
     {
